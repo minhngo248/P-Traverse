@@ -1,0 +1,13 @@
+- Pour compilation, vous mettez 4 fichiers: header.h, Source.c, Source1.c, main.c dans un même projet dans le IDE (par exemple: Dev C++, CodeBlock).
+- Si vous utilisez l'IDE NetBeans, ouvrez directement le projet Traverse sur l'IDE
+
+- Toutes les taches s'effectue sur le clavier
+-----------8 DIRECTIONS---------
+- Si vous souhaitez déplacer la pion vers le haut, tapez Z
+- Si vous souhaitez déplacer la pion en diagonale vers le haut à droite, tapez E
+- Si vous souhaitez déplacer la pion à droite, tapez D
+- Si vous souhaitez déplacer la pion en diagonale vers le bas à droite, tapez C
+- Si vous souhaitez déplacer la pion vers le bas, tapez X
+- Si vous souhaitez déplacer la pion en diagonale vers le bas à gauche, tapez W
+- Si vous souhaitez déplacer la pion à gauche, tapez Q
+- Si vous souhaitez déplacer la pion en diagonale vers le haut à gauche, tapez A
